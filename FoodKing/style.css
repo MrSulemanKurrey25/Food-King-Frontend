@@ -1,0 +1,41 @@
+.glass {
+    background: rgba(0, 0, 0, 0.7); 
+    backdrop-filter: blur(12px); 
+    border-bottom: 1px solid rgba(255,255,255,0.1); 
+}
+       
+.hero-bg { 
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('box.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+}
+
+h1 {
+    margin-left: 10px;
+
+}
+.cart-open { 
+    transform: translateX(0) !important; 
+}
+
+::-webkit-scrollbar { 
+    width: 8px; 
+}
+
+::-webkit-scrollbar-thumb { 
+    background: #f97316; 
+    border-radius: 10px; 
+}
+
+.pay-tab.active { 
+    border-color: #f97316; 
+    background: rgba(249, 115, 22, 0.1); 
+}
+
+@media print { 
+    .no-print { 
+        display: none !important; 
+    } #receipt-print 
+    { display: block !important; 
+    } 
+}
