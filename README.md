@@ -1,4 +1,4 @@
-# 👑 Food King - Responsive Web Page
+# 👑 Food King - Frontend Web Page
 Food King is a premium, fully responsive food delivery and restaurant discovery platform. Designed with a mobile-first approach, it ensures that the "King of Flavors" is accessible on any device, from desktops to tablets and smartphones.
 
 # ✨ Features
@@ -8,8 +8,6 @@ Food King is a premium, fully responsive food delivery and restaurant discovery 
 ⚡ High Performance: Optimized assets for near-instant load times.
 
 🛒 Interactive Cart: Real-time state management for orders.
-
-🌗 Theme Support: Includes a custom Dark Mode for late-night cravings.
 
 📂 Clean Architecture: Component-based structure for easy scaling.
 
